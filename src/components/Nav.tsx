@@ -10,7 +10,7 @@ function Nav() {
             <img src={logo} alt="Logo" className='logo-bar' />
           </a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav5" aria-controls="navbarNav5" aria-expanded="false" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon"></span>
+            <i className="bi bi-three-dots fs-2"></i>
           </button>
           <div className="collapse navbar-collapse" id="navbarNav5">
             <ul className="navbar-nav">
@@ -18,13 +18,13 @@ function Nav() {
                 <a className="nav-link" aria-current="page" href="#">Início</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Logotipos</a>
+                <a className="nav-link" href="#">Serviços</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Landing pages</a>
+                <a className="nav-link" href="#">Portifólio</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Preços</a>
+                <a className="nav-link" href="#">Quem somos</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">Contatos</a>
