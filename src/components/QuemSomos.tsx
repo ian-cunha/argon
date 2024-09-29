@@ -16,13 +16,15 @@ function QuemSomos() {
                     <div className="team-grid">
                         <div className="team-member">
                             <img src="link-para-foto1.jpg" alt="Membro 1" />
-                            <h4>Ivanise</h4>
-                            <p>Função 1</p>
+                            <h4>Ivanise Oliveira</h4>
+                            <p>Consultora em Geoprocessamento</p>
+                            <p>Atendimento ao cliente</p>
                         </div>
                         <div className="team-member">
                             <img src="link-para-foto2.jpg" alt="Membro 2" />
-                            <h4>Ian</h4>
-                            <p>Função 2</p>
+                            <h4>Ian Cunha</h4>
+                            <p>Desenvolvedor FullStack/Mobile</p>
+                            <p>Designer</p>
                         </div>
                     </div>
                 </div>

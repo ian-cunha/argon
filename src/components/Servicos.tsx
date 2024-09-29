@@ -18,8 +18,8 @@ function Servicos() {
                     </div>
                     <div className="col-md-6 col-lg-3 mb-4">
                         <div className="service-item p-3 border rounded shadow h-100 d-flex flex-column">
-                            <h3>Design Gráfico</h3>
-                            <p>Soluções de design gráfico que ajudam a comunicar sua mensagem de forma eficaz.</p>
+                            <h3>GeoMarketing</h3>
+                            <p>Análises geográficas precisas, garantimos que suas decisões sejam baseadas em dados confiáveis, maximizando seu alcance e aumentando as vendas.</p>
                         </div>
                     </div>
                     <div className="col-md-6 col-lg-3 mb-4">

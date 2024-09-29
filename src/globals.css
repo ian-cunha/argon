@@ -347,6 +347,7 @@ body {
 .team-member p {
   font-size: 0.9em;
   color: #555;
+  margin: auto;
 }
 
 @media (max-width: 768px) {
