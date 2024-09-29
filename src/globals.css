@@ -247,7 +247,6 @@ body {
   padding: 0 10px 10px;
 }
 
-/* Media Queries para Responsividade */
 @media (max-width: 768px) {
   .portfolio-title {
     font-size: 1.5em;
@@ -264,15 +263,15 @@ body {
   }
 
   .portfolio-grid {
-    grid-template-columns: 1fr; /* Uma coluna em telas pequenas */
+    grid-template-columns: 1fr;
   }
 
   .portfolio-item h3 {
-    font-size: 1.1em; /* Ajuste do tamanho do título */
+    font-size: 1.1em;
   }
 
   .portfolio-item p {
-    font-size: 0.9em; /* Ajuste do tamanho da descrição */
+    font-size: 0.9em;
   }
 }
 
@@ -289,13 +288,12 @@ body {
 .about-description {
   font-size: 1em;
   margin: 10px 0;
-  max-width: 800px; /* Limita a largura do texto */
+  max-width: 800px;
   margin-left: auto;
-  margin-right: auto; /* Centraliza a descrição */
-  line-height: 1.5; /* Aumenta a legibilidade */
+  margin-right: auto;
+  line-height: 1.5;
 }
 
-/* Media Queries para Responsividade */
 @media (max-width: 768px) {
   .about-title {
     font-size: 1.5em;
@@ -318,7 +316,7 @@ body {
 
 .team-section {
   margin-top: 30px;
-  text-align: center; /* Centraliza o texto na seção */
+  text-align: center;
 }
 
 .team-title {
@@ -327,9 +325,9 @@ body {
 }
 
 .team-grid {
-  display: flex; /* Usando flexbox para centralização */
-  justify-content: center; /* Centraliza os itens horizontalmente */
-  gap: 30px; /* Espaço entre os itens */
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
 
 .team-member {
@@ -338,8 +336,8 @@ body {
 
 .team-member img {
   width: 100%;
-  border-radius: 50%; /* Torna as imagens redondas */
-  max-width: 100px; /* Limita o tamanho da imagem */
+  border-radius: 50%;
+  max-width: 100px;
 }
 
 .team-member h4 {
@@ -351,7 +349,6 @@ body {
   color: #555;
 }
 
-/* Media Queries para Responsividade */
 @media (max-width: 768px) {
   .team-title {
     font-size: 1.3em;
@@ -379,27 +376,26 @@ body {
 
 .contact-methods {
   display: flex;
-  justify-content: center; /* Centraliza os links */
-  gap: 30px; /* Espaço entre os links */
+  justify-content: center;
+  gap: 30px;
 }
 
 .contact-link {
-  text-decoration: none; /* Remove sublinhado */
+  text-decoration: none;
   font-size: 1.2em;
-  color: var(--roxo-claro); /* Cor do texto */
+  color: var(--roxo-claro);
   display: flex;
-  align-items: center; /* Alinha ícone e texto verticalmente */
+  align-items: center;
 }
 
 .contact-link i {
-  margin-right: 8px; /* Espaço entre ícone e texto */
+  margin-right: 8px;
 }
 
 .contact-link:hover {
-  color: var(--roxo-claro); /* Cor ao passar o mouse */
+  color: var(--roxo-claro);
 }
 
-/* Media Queries para Responsividade */
 @media (max-width: 768px) {
   .contact-title {
     font-size: 1.5em;
@@ -410,10 +406,6 @@ body {
   }
 }
 
-.services-section {
-  
-}
-
 .service-item {
   transition: transform 0.2s;
 }
@@ -422,12 +414,11 @@ body {
   transform: scale(1.05);
 }
 
-/* Alinhamento de texto */
 .service-item h3 {
   margin-bottom: 15px;
   font-size: 1.2em;
 }
 
 .service-item p {
-  flex-grow: 1; /* Faz com que o parágrafo ocupe o espaço restante */
+  flex-grow: 1;
 }

@@ -1,0 +1,34 @@
+function QuemSomos() {
+    return (
+        <>
+            <div className="about-section">
+                <h2 className="about-title">Um pouco sobre nós...</h2>
+                <p className="about-description">
+                    Somos uma equipe apaixonada por design e tecnologia, dedicada a criar soluções digitais que ajudam empresas a se destacarem no mercado. Nossa missão é transformar ideias em realidades visuais, oferecendo serviços personalizados de desenvolvimento web e identidade visual.
+                </p>
+                <p className="about-description">
+                    Valorizamos a criatividade, a inovação e o trabalho em equipe. Acreditamos que cada projeto é uma nova oportunidade de fazer a diferença e ajudar nossos clientes a alcançar seus objetivos.
+                </p>
+
+                {/* Equipe */}
+                <div className="team-section">
+                    <h3 className="team-title">Equipe</h3>
+                    <div className="team-grid">
+                        <div className="team-member">
+                            <img src="link-para-foto1.jpg" alt="Membro 1" />
+                            <h4>Ivanise</h4>
+                            <p>Função 1</p>
+                        </div>
+                        <div className="team-member">
+                            <img src="link-para-foto2.jpg" alt="Membro 2" />
+                            <h4>Ian</h4>
+                            <p>Função 2</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </>
+    )
+}
+
+export default QuemSomos
