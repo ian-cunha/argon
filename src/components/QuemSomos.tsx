@@ -1,3 +1,6 @@
+import izzi from '../assets/izzi.jpeg';
+import ian from '../assets/ian.jpeg';
+
 function QuemSomos() {
     return (
         <>
@@ -15,13 +18,13 @@ function QuemSomos() {
                     <h3 className="team-title">Equipe</h3>
                     <div className="team-grid">
                         <div className="team-member">
-                            <img src="link-para-foto1.jpg" alt="Membro 1" />
+                            <img src={izzi} alt="Izzi" />
                             <h4>Ivanise Oliveira</h4>
                             <p>Consultora em Geoprocessamento</p>
                             <p>Atendimento ao cliente</p>
                         </div>
                         <div className="team-member">
-                            <img src="link-para-foto2.jpg" alt="Membro 2" />
+                            <img src={ian} alt="Ian" />
                             <h4>Ian Cunha</h4>
                             <p>Desenvolvedor FullStack/Mobile</p>
                             <p>Designer</p>
