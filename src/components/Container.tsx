@@ -1,5 +1,4 @@
 function Container() {
-
   return (
     <div className="hero-section">
       <div className="hero-flex">
@@ -11,7 +10,7 @@ function Container() {
         <i className="bi bi-code-slash"></i>
       </div>
     </div>
-  )
+  );
 }
 
-export default Container
+export default Container;
