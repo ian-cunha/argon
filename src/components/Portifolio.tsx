@@ -3,6 +3,8 @@ function Portifolio() {
         <>
             <div className="portfolio-section" id='portifolio'>
                 <h2 className="portfolio-title">Portfólio</h2>
+                <p>Em processo de desenvolvimento...</p>
+                {/*
                 <div className="portfolio-grid">
                     <div className="portfolio-item">
                         <img src="link-para-imagem1.jpg" alt="Projeto 1" />
@@ -20,6 +22,7 @@ function Portifolio() {
                         <p>Descrição do projeto 3.</p>
                     </div>
                 </div>
+                */}
             </div>
         </>
     )
