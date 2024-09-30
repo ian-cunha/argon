@@ -19,11 +19,6 @@ function Portifolio() {
                         <h3>Projeto 3</h3>
                         <p>Descrição do projeto 3.</p>
                     </div>
-                    <div className="portfolio-item">
-                        <img src="link-para-imagem4.jpg" alt="Projeto 4" />
-                        <h3>Projeto 4</h3>
-                        <p>Descrição do projeto 4.</p>
-                    </div>
                 </div>
             </div>
         </>
