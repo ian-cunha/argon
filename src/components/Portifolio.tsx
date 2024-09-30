@@ -1,7 +1,7 @@
 function Portifolio() {
     return (
         <>
-            <div className="portfolio-section">
+            <div className="portfolio-section" id="portifolio">
                 <h2 className="portfolio-title">Portfólio</h2>
                 <div className="portfolio-grid">
                     <div className="portfolio-item">

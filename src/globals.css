@@ -394,7 +394,7 @@ body {
 }
 
 .contact-link:hover {
-  color: var(--roxo-claro);
+  color: white;
 }
 
 @media (max-width: 768px) {

@@ -1,6 +1,6 @@
 function Container() {
   return (
-    <div className="hero-section">
+    <div className="hero-section" id="inicio">
       <div className="hero-flex">
         <h1 className="slogan-hero">Alcance bons <br />resultados.</h1>
         <h2 className="frase-hero">Criamos o seu site e construímos uma identidade visual única do seu negócio.</h2>

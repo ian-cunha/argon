@@ -4,7 +4,7 @@ import ian from '../assets/ian.jpeg';
 function QuemSomos() {
     return (
         <>
-            <div className="about-section">
+            <div className="about-section" id='equipe'>
                 <h2 className="about-title">Um pouco sobre nós...</h2>
                 <p className="about-description">
                     Somos uma equipe apaixonada por design e tecnologia, dedicada a criar soluções digitais que ajudam empresas a se destacarem no mercado. Nossa missão é transformar ideias em realidades visuais, oferecendo serviços personalizados de desenvolvimento web e identidade visual.
