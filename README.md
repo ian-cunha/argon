@@ -6,7 +6,7 @@ Criamos o seu site e construímos uma identidade visual única do seu negócio.
 ## 🔥 Introdução
 O Landing page é feita em React, Typescript, JavaScript, Vite e Vercel.
 
-[Acessar site](https://studio-pervenire.vercel.app/)
+[Acessar site](https://studiopervenire.vercel.app/)
 
 ## 📦 Tecnologias usadas:
 
