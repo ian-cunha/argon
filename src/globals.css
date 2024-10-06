@@ -155,6 +155,25 @@ body {
   background-color: var(--roxo-escuro);
 }
 
+.btn-port {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 50px;
+  font-weight: 500;
+  font-size: 0.9em;
+  color: white;
+  text-decoration-line: none;
+  background-color: var(--roxo-claro);
+  width: 100%;
+  text-align: center;
+}
+
+.btn-port:hover {
+  background-color: var(--roxo-escuro);
+}
+
 .whatsapp-button {
   position: fixed;
   right: 15px;
@@ -232,6 +251,7 @@ body {
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
+  padding-bottom: 10px;
 }
 
 .portfolio-item img {
