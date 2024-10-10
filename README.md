@@ -1,6 +1,6 @@
 ![Logo do projeto](https://studiopervenire.vercel.app/assets/logo-BoHnzbHI.svg)
 
-# Studio Argon
+# Studio Pervenire
 Criamos o seu site e construímos uma identidade visual única do seu negócio.
 
 ## 🔥 Introdução
