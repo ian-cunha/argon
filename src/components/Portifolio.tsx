@@ -16,6 +16,12 @@ function Portifolio() {
                         <p>Plataforma de rpg de mesa, criador de ficha, dado virtual, gerenciador de personagem e muito mais!</p>
                         <a className="btn-port" href="https://www.emporiumdojogador.online" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
                     </div>
+                    <div className="portfolio-item">
+                        <img src="link-para-imagem3.jpg" alt="Projeto 3" />
+                        <h3>Projeto 3</h3>
+                        <p>Descrição do projeto 3.</p>
+                        <a className="btn-port" href="#" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
+                    </div>
                 </div>
             </div>
         </>
