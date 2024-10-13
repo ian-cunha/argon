@@ -11,10 +11,10 @@ function Portifolio() {
                         <a className="btn-port" href="https://www.izzipaper.shop" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
                     </div>
                     <div className="portfolio-item">
-                        <img src="link-para-imagem2.jpg" alt="Projeto 2" />
-                        <h3>Docklink</h3>
-                        <p>Docklink é um aplicativo que permite criar e compartilhar links personalizados com seus contatos, redes sociais e plataformas de mídia.</p>
-                        <a className="btn-port" href="https://docklink.vercel.app" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
+                        <img src="https://www.emporiumdojogador.online/assets/logo-ND8VWH2Y.svg" alt="Emporium do jogador" />
+                        <h3>Emporium do jogador</h3>
+                        <p>Embarque em suas aventuras de Dungeons & Dragons com o Emporium do Jogador e descubra um mundo de raças, classes e magias. Seja o mestre do seu destino e deixe que o Emporium do Jogador ilumine seu caminho através dos reinos mágicos e perigosos de D&D. Que as rolagens de dados estejam sempre a seu favor!</p>
+                        <a className="btn-port" href="https://www.emporiumdojogador.online" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
                     </div>
                     <div className="portfolio-item">
                         <img src="link-para-imagem3.jpg" alt="Projeto 3" />
