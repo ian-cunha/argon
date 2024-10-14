@@ -17,10 +17,10 @@ function Portifolio() {
                         <a className="btn-port" href="https://www.emporiumdojogador.online" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
                     </div>
                     <div className="portfolio-item">
-                        <img src="link-para-imagem3.jpg" alt="Projeto 3" />
-                        <h3>Projeto 3</h3>
-                        <p>Descrição do projeto 3.</p>
-                        <a className="btn-port" href="#" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
+                        <img src="https://ivialfajores.vercel.app/static/media/logo.7d53bbd96df0168d2527.png" alt="Ivi Alfajores" />
+                        <h3>Cardápio Ivi Alfajores</h3>
+                        <p>Cardápio virtual em QR CODE.</p>
+                        <a className="btn-port" href="https://ivialfajores.vercel.app" target="_blank" rel="noopener noreferrer">Ver Projeto</a>
                     </div>
                 </div>
             </div>
