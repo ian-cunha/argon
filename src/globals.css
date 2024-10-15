@@ -121,6 +121,7 @@ body {
   flex-direction: column;
   justify-content: center;
   padding: 24px;
+  max-width: 100%;
 }
 
 .slogan-hero {
@@ -193,6 +194,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-top: 10px;
 }
 
 .btn-hero:hover {
