@@ -1,4 +1,4 @@
-![Logo do projeto](https://studiopervenire.vercel.app/assets/logo-BoHnzbHI.svg)
+![Logo do projeto](https://studiopervenire.online/assets/logo-BoHnzbHI.svg)
 
 # Studio Pervenire
 Criamos o seu site e construímos uma identidade visual única do seu negócio.
@@ -6,7 +6,7 @@ Criamos o seu site e construímos uma identidade visual única do seu negócio.
 ## 🔥 Introdução
 O Landing page é feita em React, Typescript, JavaScript, Vite e Vercel.
 
-[Acessar site](https://studiopervenire.vercel.app/)
+[Acessar site](https://studiopervenire.online/)
 
 ## 📦 Tecnologias usadas:
 
