@@ -19,7 +19,7 @@ Ferramentas:
 
 ## 📄 Licença
 
-Esse projeto está sob a minha licença (Ian Cunha).
+Esse projeto está sob a minha licença (Ian Cunha e Ivanise de Oliveira).
 
 ## 💡 Expressões de gratidão
 
