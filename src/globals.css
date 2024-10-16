@@ -491,3 +491,17 @@ body {
 .service-item p {
   flex-grow: 1;
 }
+
+.social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.icon-we {
+  color: var(--roxo-claro);
+  font-size: 2em;
+}
+.icon-we:hover {
+  color: var(--branco);
+}

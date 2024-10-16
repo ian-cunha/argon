@@ -7,6 +7,9 @@ function Contato() {
                     <a className="contact-link" href="https://wa.me/5581993964043" target="_blank" rel="noopener noreferrer">
                         <i className="bi bi-whatsapp"></i> WhatsApp
                     </a>
+                    <a className="contact-link" href="https://www.instagram.com/studio.pervenire/" target="_blank" rel="noopener noreferrer">
+                        <i className="bi bi-instagram"></i> Instagram
+                    </a>
                     <a className="contact-link" href="https://www.linkedin.com/in/studio.pervenire" target="_blank" rel="noopener noreferrer">
                         <i className="bi bi-linkedin"></i> LinkedIn
                     </a>

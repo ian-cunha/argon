@@ -22,12 +22,20 @@ function QuemSomos() {
                             <h4>Ivanise Oliveira</h4>
                             <p>Consultora em Geoprocessamento</p>
                             <p>Atendimento ao cliente</p>
+                            <div className="social-links">
+                                <a href="https://www.instagram.com/izzibr/" target="_blank" rel="noopener noreferrer"><i className="bi bi-instagram icon-we"></i></a>
+                                <a href="https://www.linkedin.com/in/izzibr/" target="_blank" rel="noopener noreferrer"><i className="bi bi-linkedin icon-we"></i></a>
+                            </div>
                         </div>
                         <div className="team-member">
                             <img src={ian} alt="Ian" />
                             <h4>Ian Cunha</h4>
                             <p>Desenvolvedor FullStack/Mobile</p>
                             <p>Designer</p>
+                            <div className="social-links">
+                                <a href="https://www.instagram.com/ian.pictures/" target="_blank" rel="noopener noreferrer"><i className="bi bi-instagram icon-we"></i></a>
+                                <a href="https://www.linkedin.com/in/iancunha/" target="_blank" rel="noopener noreferrer"><i className="bi bi-linkedin icon-we"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -36,4 +44,4 @@ function QuemSomos() {
     )
 }
 
-export default QuemSomos
+export default QuemSomos;
